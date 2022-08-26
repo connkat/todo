@@ -7,8 +7,7 @@ function ImportTodo() {
     e.preventDefault();
     try {
       const body = { description };
-      //https://boiling-falls-07424.herokuapp.com/
-      const res = await fetch("http://localhost:5000/todos", {
+      const res = await fetch("http://localhost:4000/todos", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(body),
