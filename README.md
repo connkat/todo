@@ -1,2 +1,5 @@
 # todo
-A basic todo app
+
+A basic todo app using a PERN stack with Bootstrap. 
+
+I'm creating a catalogue of good tutorials for new devs, and this is a solid one from (FreeCodeCamp)[https://www.youtube.com/watch?v=ldYcgPKEZC8]
